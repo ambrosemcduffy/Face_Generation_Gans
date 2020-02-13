@@ -11,4 +11,4 @@ There's a few packages one needs to install to get my **Network** to work.
 
 # Conclusion
 
-<img src="result.jpg" width = 300>
+<img src="result.JPG" width = 300>
